@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronos The Removal of Time", "Assembly-CSharp.csproj", "{9CFD31D2-A2E9-9733-1B0E-41CCDEEA87E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronos The Removal of Time", "Assembly-CSharp-Editor.csproj", "{B4076F0C-0141-98B0-5961-4C63413D845B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFD31D2-A2E9-9733-1B0E-41CCDEEA87E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFD31D2-A2E9-9733-1B0E-41CCDEEA87E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFD31D2-A2E9-9733-1B0E-41CCDEEA87E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFD31D2-A2E9-9733-1B0E-41CCDEEA87E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4076F0C-0141-98B0-5961-4C63413D845B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4076F0C-0141-98B0-5961-4C63413D845B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4076F0C-0141-98B0-5961-4C63413D845B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4076F0C-0141-98B0-5961-4C63413D845B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
